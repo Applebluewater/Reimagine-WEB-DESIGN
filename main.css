@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@300&display=swap');
+body{font-size: 115%; font-family: 'Antonio', sans-serif;}
+
+
+
+.search{
+  border-color:black;
+  color:black;
+}
+
+.titlecolor{
+  background-color:black;
+  height: 30px;
+}
+
+.givebuttons{
+  color:white;
+  background-color:black;
+}
+
+.donatebuttons{
+  color:white;
+  background-color:green;
+}
